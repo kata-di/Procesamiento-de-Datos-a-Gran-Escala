@@ -4,7 +4,7 @@
     width="200"
     style="border:0; display:block; margin:auto;"
     alt="Logo Pontificia Universidad Javeriana"></h1>
-<h2 align="center">Dana Katalina Diaz <br>Ciencia de Datos
+<h2 align="center">Dana Katalina Diaz <br> 00020523642 <br> Ciencia de Datos
 </h2>
 
 <div>
