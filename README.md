@@ -11,7 +11,6 @@
 <h1>Contenido del repositorio:</h1>
   <ul>
     <li>Ejercicios de Python</li>
-   <li>Proyecto procesamiento</li>
    <li>Parcial II. Calidad del Agua</li>
   </ul>
 </div>
