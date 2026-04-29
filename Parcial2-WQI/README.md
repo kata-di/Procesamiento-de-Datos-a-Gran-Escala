@@ -181,5 +181,10 @@ Central Pollution Control Board, India.
 Recuperado de: <a href="https://cpcb.nic.in/">https://cpcb.nic.in/</a>
 </li>
 
+<br>
+
+<li>
+APHA (2017). Métodos estándar para el examen de agua y aguas residuales (23.ª ed.). Washington D.C.: Asociación Estadounidense de Salud Pública
+</li>
 </ul>
 </ul>
