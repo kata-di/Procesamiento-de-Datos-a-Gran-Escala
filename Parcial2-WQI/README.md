@@ -2,7 +2,6 @@
   Procesamiento de Alto Volumen de Datos <br>
   Pontificia Universidad Javeriana <br>
   Facultad de Ingeniería de Sistemas <br>
-  John Jairo Corredor <br>
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Javeriana.svg"
     width="200"
